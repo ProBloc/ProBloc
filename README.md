@@ -17,15 +17,39 @@ I’m interested in **Blockchain**👀 development and ecosystem its
 ## **_Skills_**
 ![Development](https://img.shields.io/badge/frontend_|_backend_|_mobile_|_blockchain-blue?color=orange&label=Development&logo=java&style=for-the-badge&labelColor=blueviolet)
 
-
 ⚡  **Programming Languages:** 
-_Javascript, Solidity, Typescript, Java, C# (CSharp), Kotlin, Dart+Flutter, PHP, classic ASP, VB6/VBNet, SQL, ColdFusion, Xbase (Clipper, FoxPro, DBase, Harbour), C e C++, Basic, Pascoal (Delphi, Power House), Html._
+* Solidity
+* Javascript
+* Typescript
+* PHP
+* Java
+* C#
+* SQL
 
 ⚡  **Databases:** 
-_Mysql, Oracle, PostgreSQL , SQL Server, SQLite, Access, XBase._
+* PostgreSQL
+* Mysql
+* Oracle
+* SQL Server
+* SQLite
+* 
 
 ⚡  **Technologies:** 
-_Nodejs, ReactJs, Angular, PWA, Rest, API, IDEs (Visual Studio, Android Studio, Intellij, PhpStorm, VS Code), Git, TypeORM, Prisma, NestJs, Web3, Blockchain, DeFi, EVM, Apis, Tokens, Cryptocurrencies, Smart Contracts, Scrum and others._
+* React
+* Rest API
+* Angular
+* Nodejs
+* Git
+* Visual Studio Code
+* Nestjs
+
+⚡  **Blockchain and Web3 Ecosystems:**
+* ERC Protocols
+* EVM Chain based
+* Defi
+* Smart Contracts
+* Cryptocurrencies Economy
+
 
 <br />
 📫 How to reach me:
