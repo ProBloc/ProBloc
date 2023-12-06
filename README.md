@@ -42,7 +42,7 @@ I’m interested in **Blockchain**👀 development and ecosystem its
 * Visual Studio Code
 * Nestjs
 
-⚡  **Blockchain and Web3 Ecosystems:**
+⚡  **_Blockchain and Web3 Ecosystems_**
 * ERC Protocols
 * EVM Chain based
 * Defi Ecosystems
