@@ -1,16 +1,45 @@
 ### Hi there 👋
 
-<!--
-**ProBloc/ProBloc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **_Dev Bloc_**
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Then... 😄
+
+I’m Full Stack Dev ✨ ✨
+
+I’m interested in **Blockchain**👀 development and ecosystem its 
+
+
+<br />
+
+## **_Skills_**
+![Development](https://img.shields.io/badge/frontend_|_backend_|_mobile_|_blockchain-blue?color=orange&label=Development&logo=java&style=for-the-badge&labelColor=blueviolet)
+
+
+⚡  **Programming Languages:** 
+_Javascript, Solidity, Typescript, Java, C# (CSharp), Kotlin, Dart+Flutter, PHP, classic ASP, VB6/VBNet, SQL, ColdFusion, Xbase (Clipper, FoxPro, DBase, Harbour), C e C++, Basic, Pascoal (Delphi, Power House), Html._
+
+⚡  **Databases:** 
+_Mysql, Oracle, PostgreSQL , SQL Server, SQLite, Access, XBase._
+
+⚡  **Technologies:** 
+_Nodejs, ReactJs, Angular, PWA, Rest, API, IDEs (Visual Studio, Android Studio, Intellij, PhpStorm, VS Code), Git, TypeORM, Prisma, NestJs, Web3, Blockchain, DeFi, EVM, Apis, Tokens, Cryptocurrencies, Smart Contracts, Scrum and others._
+
+<br />
+📫 How to reach me:
+
+## devprocbloc@gmail.com
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+
+
+
