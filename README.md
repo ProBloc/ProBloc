@@ -17,7 +17,7 @@ I’m interested in **Blockchain**👀 development and ecosystem its
 ## **_Skills_**
 ![Development](https://img.shields.io/badge/frontend_|_backend_|_mobile_|_blockchain-blue?color=orange&label=Development&logo=java&style=for-the-badge&labelColor=blueviolet)
 
-⚡  **Programming Languages:** 
+⚡  **_Programming Languages_** 
 * Solidity
 * Javascript
 * Typescript
@@ -26,14 +26,14 @@ I’m interested in **Blockchain**👀 development and ecosystem its
 * C#
 * SQL
 
-⚡  **Databases:** 
+⚡  **_Databases_** 
 * PostgreSQL
 * Mysql
 * Oracle
 * SQL Server
 * SQLite
   
-⚡  **Technologies:** 
+⚡  **_Technologies_** 
 * React
 * Rest API
 * Angular
@@ -45,7 +45,7 @@ I’m interested in **Blockchain**👀 development and ecosystem its
 ⚡  **Blockchain and Web3 Ecosystems:**
 * ERC Protocols
 * EVM Chain based
-* Defi
+* Defi Ecosystems
 * Smart Contracts
 * Cryptocurrencies Economy
 
