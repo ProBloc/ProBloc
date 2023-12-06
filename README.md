@@ -15,7 +15,7 @@ I’m interested in **Blockchain**👀 development and ecosystem its
 <br />
 
 ## **_Skills_**
-![Development](https://img.shields.io/badge/frontend_|_backend_| blockchain-blue?color=orange&label=Development&logo=java&style=for-the-badge&labelColor=blueviolet)
+![Development](https://img.shields.io/badge/frontend_|_backend_|_blockchain-blue?color=orange&label=Development&logo=java&style=for-the-badge&labelColor=blueviolet)
 
 ⚡  **_Programming Languages_** 
 * Solidity
