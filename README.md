@@ -32,8 +32,7 @@ I’m interested in **Blockchain**👀 development and ecosystem its
 * Oracle
 * SQL Server
 * SQLite
-* 
-
+  
 ⚡  **Technologies:** 
 * React
 * Rest API
