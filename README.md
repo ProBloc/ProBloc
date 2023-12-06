@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# **_Dev Bloc_**
+# **Dev Bloc**
 
 <br />
 <br />
@@ -35,6 +35,7 @@ _Nodejs, ReactJs, Angular, PWA, Rest, API, IDEs (Visual Studio, Android Studio, 
 
 <br />
 <br />
+ps.: Yes, this my profile is not unique but for Blockchain will be. Have others for Web2 and mobile architectures. 
 <br />
 <br />
 <br />
